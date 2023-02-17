@@ -1,9 +1,11 @@
+/* 1440px > inf */
 @media screen and (max-width: 1440px){
     .container{
         max-width: 100% ;
     }
     
 }
+/* 0 < 480px */
 @media screen and (max-width: 480px){
     .row {
         flex-wrap: wrap;
